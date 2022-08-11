@@ -8,7 +8,7 @@ TC No is an 11 digit number
 
 The ones digit of the sum of first 10 digits, is equal to the 11. digit
 
-The ones digit of the sum of, 7 times the sum of odd digits (1,3,5,7,9) and 9 times the sum of even digits (2,4,6,8), is equal to
+The ones digit of the sum of, 7 times the sum of odd digits (1,3,5,7,9) and 9 times the sum of even digits (2,4,6,8), is equal to the 10. digit
 > _7*(1,3,5,7,9)+9*(2,4,6,8)_
 
 The ones digit of the sum of 8 times the sum of odd digits, is equal to the 11. digit
